@@ -1,4 +1,5 @@
 # FundHub Event Ratings — Setup Guide
+<!-- Updated: May 2026 -->
 
 ## What you need before deploying
 
