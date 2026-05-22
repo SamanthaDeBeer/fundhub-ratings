@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
-// FundHub Event Ratings — Next.js configuration v3
+// FundHub Event Ratings — Next.js configuration v4
 const nextConfig = {
   experimental: {
     serverComponentsExternalPackages: ['twilio'],
